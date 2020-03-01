@@ -1,1 +1,1 @@
-# leetcode.syvertsj - repo for selected leetcode problems
+# leetcode.syvertsj - a repo for selected leetcode problems
